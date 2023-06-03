@@ -1,5 +1,5 @@
 # 2022 yaz stajımda, java programlama dili ile yaptığım projeleri içerir. 
-### Kodlama yaparken alt kısımda yazan javanın birçok özelliğini kullandım. Buradaki amacım tüm özellikleri uygulayarak java dilinin inceliklerini öğrenmekti. 
+### Kodlama yaparken alt kısımda yazan javanın birçok özelliğini kullandım. Buradaki amacım özellikleri uygulayarak java dilinin inceliklerini öğrenmekti. 
 
 Java, genel amaçlı, nesne yönelimli bir programlama dilidir. Java, platform bağımsız bir dil olarak tanınır, yani bir Java programı bir bilgisayarda yazılıp başka bir bilgisayarda çalıştırılabilir.
 
